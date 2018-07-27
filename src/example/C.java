@@ -1,9 +1,9 @@
 package example;
 
 /**
+ * http://github.com/takashi-ishio/CommentLister-Test
  * Example project using comments
  * @author ishio
- * http://github.com/takashi-ishio/CommentLister-Test
  * 
  */
 public class C {
