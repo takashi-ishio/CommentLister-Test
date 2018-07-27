@@ -5,6 +5,6 @@ package example;
  */
 public class F {
 	
-	// http://github.com/takashi-ishio/
+	// TEST http://github.com/takashi-ishio/
 
 }
