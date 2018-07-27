@@ -3,7 +3,7 @@ package example;
 /**
  * Example project using comments
  * @author ishio
- * http://github.com/takashi-ishio/CommentLister-Test
+ * http://github.com/takashi-ishio/CommentLister-Test3
  * http://github.com/takashi-ishio/CommentLister-Test2
  * 
  */
