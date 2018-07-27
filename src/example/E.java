@@ -5,7 +5,7 @@ package example;
  * @author ishio
  * 
  */
-public class C {
+public class E {
 
 	// this url does not work
 	private static final String url = "http://github.com/takashi-ishio/CommentLister-Test";
