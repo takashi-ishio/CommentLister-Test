@@ -2,8 +2,8 @@ package example;
 
 /**
  * Example project using comments
+ * New comments
  * @author ishio
- * 
  */
 public class E {
 
